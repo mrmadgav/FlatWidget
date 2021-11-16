@@ -1,5 +1,7 @@
 const axios = require("axios");
 
+console.log("hello");
+
 document.addEventListener("DOMContentLoaded", getInfo());
 
 const getInfo = () => {
